@@ -1,0 +1,2 @@
+# all files should be unix formatted
+*.sh text eol=lf
